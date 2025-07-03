@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Core game dependencies
 pygame>=2.5.0
 opencv-python>=4.8.0
@@ -11,3 +12,18 @@ opencv-contrib-python>=4.8.0
 # pytest>=7.0.0
 # black>=23.0.0
 # flake8>=6.0.0
+=======
+# Core game dependencies
+pygame>=2.5.0
+opencv-python>=4.8.0
+mediapipe>=0.10.0
+numpy>=1.24.0
+
+# Optional: For better performance
+opencv-contrib-python>=4.8.0
+
+# Development dependencies (optional)
+# pytest>=7.0.0
+# black>=23.0.0
+# flake8>=6.0.0
+>>>>>>> 57b1091fbcab5698e5ce2f82f921d13f803e7c21
